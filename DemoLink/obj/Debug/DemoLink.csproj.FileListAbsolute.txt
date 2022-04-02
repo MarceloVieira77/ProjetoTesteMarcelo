@@ -1,0 +1,8 @@
+C:\Users\marcelo.vieira\source\repos\DemoLink\DemoLink\bin\Debug\DemoLink.exe.config
+C:\Users\marcelo.vieira\source\repos\DemoLink\DemoLink\bin\Debug\DemoLink.exe
+C:\Users\marcelo.vieira\source\repos\DemoLink\DemoLink\bin\Debug\DemoLink.pdb
+C:\Users\marcelo.vieira\source\repos\DemoLink\DemoLink\obj\Debug\DemoLink.csproj.AssemblyReference.cache
+C:\Users\marcelo.vieira\source\repos\DemoLink\DemoLink\obj\Debug\DemoLink.csproj.SuggestedBindingRedirects.cache
+C:\Users\marcelo.vieira\source\repos\DemoLink\DemoLink\obj\Debug\DemoLink.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.vieira\source\repos\DemoLink\DemoLink\obj\Debug\DemoLink.exe
+C:\Users\marcelo.vieira\source\repos\DemoLink\DemoLink\obj\Debug\DemoLink.pdb
