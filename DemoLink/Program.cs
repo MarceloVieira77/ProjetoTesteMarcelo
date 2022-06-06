@@ -18,13 +18,13 @@ namespace DemoLink
             cidades.Add("Natal"); 
             cidades.Add("Florianópolis");
 
-            //Console.WriteLine(BuscarPrimeiroComForeach(cidades, "São Paulo"));
+            //Console.WriteLine(BuscarComForeach(cidades, "São Paulo"));
             //BuscarListaComLinq(cidades, "S").ForEach(x => Console.WriteLine(x));
             BuscarListaComLinqLambda(cidades, "S").ForEach(x => Console.WriteLine(x));
             Console.ReadKey();
         }
 
-        public static string BuscarPrimeiroComForeach(List<string> lista, string termo)
+        public static string BuscarComForeach(List<string> lista, string termo)
         {
             foreach (string item in lista)
             {
